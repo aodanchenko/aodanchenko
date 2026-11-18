@@ -1,11 +1,13 @@
-### Hi! I am Anna, an AI/Product Engineer
-My primary fields of interest are AI Algorithms and the synergy of art, robotics and technology. 
+### Hi! I am Anna
+Interested in AI algorithms, robotics, and the synergy of art and technology. 
 
-Besides coding, I love airplanes, hiking, yoga, exotic pets. 
+Besides tech, I love airplanes, hiking, yoga, and have two exotic pets. 
 
-## How To Reach Me 👀
-- [Telegram](https://t.me/anyaachan)  📝
+## Contact me 
+- [Telegram](https://t.me/annadoesfocus)  📝
 - [Email](anna.danchenko@icloud.com) 📨
+
+
 <!--
 
 Here are some ideas to get you started:
