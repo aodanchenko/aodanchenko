@@ -6,7 +6,7 @@ Besides tech, I love airplanes, hiking, yoga, and have two exotic pets.
 ## Contact me 
 - [Telegram](https://t.me/annadoesfocus)  📝
 - [Email](mailto:anna.danchenko@icloud.com) 📨
-- [danchenko.me](danchenko.me) 
+- [danchenko.me](https://danchenko.me) 
 
 <!--
 
